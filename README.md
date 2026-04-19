@@ -28,7 +28,7 @@
 </div>
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/ettorres12/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ettorres12/ettorres12/blob/output/github-contribution-grid-snake.svg)
           
           
 
