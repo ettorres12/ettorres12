@@ -4,11 +4,11 @@
 🎓 Estudante de Ciência da Computação
 📍 Pernambuco
 
-#Ferramentas 
+## Ferramentas 
 
 <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" widht="40" height="40" /> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" widht="40" height="40" /> 
 
-#Estou aprendendo
+## Estou aprendendo
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" widht="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" widht="40" height="40" /> <img loding="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" widht="40" height="40"/>
 
