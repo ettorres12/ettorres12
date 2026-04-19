@@ -3,8 +3,6 @@
 
 🎓 Estudante de Ciência da Computação
 
-📍 Pernambuco
-
 ## Ferramentas 
 
 <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" widht="40" height="40" /> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" widht="40" height="40" /> 
