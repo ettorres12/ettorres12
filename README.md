@@ -2,6 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 🎓 Estudante de Ciência da Computação
+
 📍 Pernambuco
 
 ## Ferramentas 
@@ -28,7 +29,6 @@
 </div>
 
 
-![Snake animation](https://github.com/ettorres12/ettorres12/blob/output/github-contribution-grid-snake.svg)
           
           
 
